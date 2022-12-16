@@ -14,6 +14,7 @@
 #include <exception>
 
 
+
 //Initialization with a fixed string which consists of the hexadecimal digits of PI (less the initial 3)
 //P-array, 18 32-bit subkeys
 const unsigned int CBlowFish::scm_auiInitP[18] = {
